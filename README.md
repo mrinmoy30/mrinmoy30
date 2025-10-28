@@ -45,21 +45,18 @@ I translate **ambiguous business questions** into **measurable KPIs** and **intu
 ---
 
 ## 📈 Featured Projects
-### 🟨 [**HR Data Analytics Dashboard**](https://github.com/mrinmoy30/HR_Data_Analytics)
 
+### 🟨 [**HR Data Analytics Dashboard**](https://github.com/mrinmoy30/HR_Data_Analytics)
 Power BI dashboard analyzing **attrition trends** across departments for **1,470 employees**.  
-🔹 KPIs: Attrition %, Avg Tenure, Work-Life Balance Index  
-🔹 Findings: Sales roles & 0–25 age band show the highest risk
-📁 [View Project →](https://github.com/mrinmoy30/HR_Data_Analytics)
+🔹 Key KPIs: Attrition %, Avg Tenure, Work-Life Balance Index  
+🔹 Identified top drivers — Sales roles & 0–25 age band had highest attrition risk  
 
 ---
 
 ### 🟩 [**Blinkit Grocery Sales Analysis**](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis)
-
-Retail analytics dashboard built with Power BI & Power Query for **₹1.2M** total sales.  
-🔹 DAX for revenue, item count, category profitability  
-🔹 Dynamic filters for outlet type, location, and ratings
-📁 [View Project →](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis)
+Retail analytics dashboard built using Power BI & Power Query for **₹1.2M in total sales**.  
+🔹 Created DAX measures for revenue, item count, & category profitability  
+🔹 Designed dynamic filters for outlet type, location, and ratings  
 
 ---
 

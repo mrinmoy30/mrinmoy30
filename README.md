@@ -31,7 +31,7 @@ Skilled in **SQL** (joins, CTEs, window functions), **Power BI** (Power Query, D
 📊 Recently built:
 - **Retail Sales Dashboard** analyzing **₹1.2M** sales across **8.5K** transactions  
 - **HR Analytics Dashboard** for **1,470** employees to spotlight high-risk attrition cohorts & burnout drivers
-- 
+
 I translate **ambiguous business questions** into **measurable KPIs** and **intuitive dashboards** that drive decisions.
 
 ---

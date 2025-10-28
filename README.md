@@ -51,7 +51,7 @@ Power BI dashboard analyzing **attrition trends** across departments for **1,470
 🔹 Developed an interactive Power BI dashboard to analyze drivers of employee turnover for 1,470 employees, identifying a company-wide attrition rate of 16.12%.  
 🔹 Wrote custom DAX measures to calculate and display key HR metrics, including Total Employees (1,470), Attrition Count (237), Attrition Rate (16.12%), and Average Years at Company (7.01).
 🔹 Quantified key attrition drivers, identifying Sales Representatives (39.76%) and employees aged 0-25 (39.18%) as the highest-risk groups.
-🔹 Discovered employees working overtime had a 30.5\% attrition rate and those with ``Bad'' work-life balance had a 31.3\% rate, highlighting burnout as a major factor.
+🔹 Discovered employees working overtime had a 30.5% attrition rate and those with ``Bad'' work-life balance had a 31.3% rate, highlighting burnout as a major factor.
 📁 [View Project →](https://github.com/mrinmoy30/HR_Data_Analytics)
 
 ---
@@ -60,8 +60,8 @@ Power BI dashboard analyzing **attrition trends** across departments for **1,470
 Retail analytics dashboard built with Power BI & Power Query for **₹1.2M** total sales.  
 🔹 Built a comprehensive Power BI dashboard from scratch to analyze ₹1.2M in sales across 8,523 transactions, identifying key trends in product and store performance. 
 🔹 Performed data cleaning and transformation in Power Query, manually standardizing 3,300+ inconsistent text entries to ensure data accuracy.
-🔹  Wrote custom DAX measures to calculate and display key project metrics, including Total Sales (₹1.2M), Total Items Sold (8,523), Average Sale Price (₹140.99), and Average Rating (3.97/5).
-🔹  Analyzed performance drivers, discovering "Supermarket Type1" was the top outlet (65.5% of revenue) and "Low Fat" items were the dominant product type (64.6% of sales).
+🔹 Wrote custom DAX measures to calculate and display key project metrics, including Total Sales (₹1.2M), Total Items Sold (8,523), Average Sale Price (₹140.99), and Average Rating (3.97/5).
+🔹 Analyzed performance drivers, discovering "Supermarket Type1" was the top outlet (65.5% of revenue) and "Low Fat" items were the dominant product type (64.6% of sales).
 📁 [View Project →](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis)
 
 ---

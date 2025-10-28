@@ -50,6 +50,7 @@ I translate **ambiguous business questions** into **measurable KPIs** and **intu
 Power BI dashboard analyzing **attrition trends** across departments for **1,470 employees**.  
 🔹 Developed an interactive Power BI dashboard to analyze drivers of employee turnover for 1,470 employees, identifying a company-wide attrition rate of 16.12%.  
 🔹 Wrote custom DAX measures to calculate and display key HR metrics, including Total Employees (1,470), Attrition Count (237), Attrition Rate (16.12%), and Average Years at Company (7.01).
+🔹 Wrote custom DAX measures to calculate and display key HR metrics, including Total Employees (1,470), Attrition Count (237), Attrition Rate (16.12%), and Average Years at Company (7.01).
 🔹 Quantified key attrition drivers, identifying Sales Representatives (39.76%) and employees aged 0-25 (39.18%) as the highest-risk groups.
 🔹 Discovered employees working overtime had a 30.5% attrition rate and those with ``Bad'' work-life balance had a 31.3% rate, highlighting burnout as a major factor.
 📁 [View Project →](https://github.com/mrinmoy30/HR_Data_Analytics)

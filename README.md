@@ -45,11 +45,9 @@ I translate **ambiguous business questions** into **measurable KPIs** and **intu
 ---
 
 ## 📈 Featured Projects
-
 ### 🟨 [**HR Data Analytics Dashboard**](https://github.com/mrinmoy30/HR_Data_Analytics)
+
 Power BI dashboard analyzing **attrition trends** across departments for **1,470 employees**.  
-🔹 Developed an interactive Power BI dashboard to analyze drivers of employee turnover for 1,470 employees, identifying a company-wide attrition rate of 16.12%.  
-🔹 Wrote custom DAX measures to calculate and display key HR metrics, including Total Employees (1,470), Attrition Count (237), Attrition Rate (16.12%), and Average Years at Company (7.01).
 🔹 KPIs: Attrition %, Avg Tenure, Work-Life Balance Index  
 🔹 Findings: Sales roles & 0–25 age band show the highest risk
 🔹 Findings: Sales roles & 0–25 age band show the highest risk
@@ -58,11 +56,10 @@ Power BI dashboard analyzing **attrition trends** across departments for **1,470
 ---
 
 ### 🟩 [**Blinkit Grocery Sales Analysis**](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis)
+
 Retail analytics dashboard built with Power BI & Power Query for **₹1.2M** total sales.  
-🔹 Built a comprehensive Power BI dashboard from scratch to analyze ₹1.2M in sales across 8,523 transactions, identifying key trends in product and store performance. 
-🔹 Performed data cleaning and transformation in Power Query, manually standardizing 3,300+ inconsistent text entries to ensure data accuracy.
-🔹 Wrote custom DAX measures to calculate and display key project metrics, including Total Sales (₹1.2M), Total Items Sold (8,523), Average Sale Price (₹140.99), and Average Rating (3.97/5).
-🔹 Analyzed performance drivers, discovering "Supermarket Type1" was the top outlet (65.5% of revenue) and "Low Fat" items were the dominant product type (64.6% of sales).
+🔹 DAX for revenue, item count, category profitability  
+🔹 Dynamic filters for outlet type, location, and ratings
 📁 [View Project →](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis)
 
 ---

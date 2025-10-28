@@ -68,15 +68,3 @@ Retail analytics dashboard built with Power BI & Power Query for **₹1.2M** tot
 📄 [View Certificate →](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_NkghqZroY5KCsc8ts_1757300984981_completion_certificate.pdf)
 
 ---
-
-<div align="center">
-
-## 🤝 Let’s Connect
-<a href="https://www.linkedin.com/in/mrinmoy-sonowal-47a902221/">LinkedIn</a> &nbsp;•&nbsp; 
-<a href="mailto:sonowalmrinmoy888@gmail.com">Email</a> &nbsp;•&nbsp; 
-<a href="https://github.com/mrinmoy30">GitHub</a>
-
-<br/><br/>
-⭐ <i>“Data is the new oil — but only when refined into insight.”</i>
-
-</div>

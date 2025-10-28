@@ -50,7 +50,6 @@ I translate **ambiguous business questions** into **measurable KPIs** and **intu
 Power BI dashboard analyzing **attrition trends** across departments for **1,470 employees**.  
 🔹 KPIs: Attrition %, Avg Tenure, Work-Life Balance Index  
 🔹 Findings: Sales roles & 0–25 age band show the highest risk
-🔹 Findings: Sales roles & 0–25 age band show the highest risk
 📁 [View Project →](https://github.com/mrinmoy30/HR_Data_Analytics)
 
 ---
